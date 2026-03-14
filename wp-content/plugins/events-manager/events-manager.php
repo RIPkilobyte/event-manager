@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Events Manager
- * Description: Добавляет тип записей "event " с полями Название, Дата события, Место проведения
+ * Description: Добавляет тип записей "event" с полями Название, Дата события, Место проведения
  * Version: 1.0
  * Author: Andrew Stepanov
  */
